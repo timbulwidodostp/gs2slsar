@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p gs2slsar Estimates Generalized Spatial Autoregressive Two Stage Least Squares Regression Use gs2slsar With STATA 18
