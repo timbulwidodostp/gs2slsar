@@ -1,5 +1,5 @@
-d 'DEA': Data envelopment analysis
+d 'gs2slsar': Estimates Generalized Spatial Autoregressive Two Stage Least Squares Regression Use gs2slsar With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f gs2slsar.ado
+f gs2slsar.dlg
+f gs2slsar.sthlp
