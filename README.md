@@ -1,6 +1,8 @@
 # gs2slsar
 Estimates Generalized Spatial Autoregressive Two Stage Least Squares Regression Use gs2slsar With STATA 18
 
+https://www.youtube.com/watch?v=nEd_yGIWrD4
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
